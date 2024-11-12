@@ -31,4 +31,4 @@ URL-REGEX,^https?://kuchenland\.ru/.*yandex\.ru/metrika/tag\.js
 URL-REGEX,^https?://alean\.ru|anoncer\.net|nabortu\.ru|samozapis-spb\.ru|tv\.yandex\.ru|tvrain\.ru/.*yandex\.ru/metrika/watch\.js
 URL-REGEX,^https?://anoncer\.net/.*yandex\.ru/watch/
 URL-REGEX,^https?://anoncer\.net/.*yandex\.ru/webvisor/
-URL-REGEX,^https://yandex\.ru/an/count/
+URL-REGEX,^https://yandex\.ru/an/count/.*\?
